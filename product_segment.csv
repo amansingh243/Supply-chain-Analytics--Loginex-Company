@@ -1,0 +1,114 @@
+Product Department,Product Category,Product Name,Net Sales,percent,Cumulative,ABC Category,CV,XYZ Category,ABCXYZ
+Fan Shop,Fishing,Field & Stream Sportsman 16 Gun Fire Safe,965748.0,0.20976116974894882,0.20976116974894882,A [High value],0.07769948380703158,X [Regular demand],XA
+Fan Shop,Camping & Hiking,Diamondback Women's Serene Classic Comfort Bi,551430.0,0.11977099806022155,0.3295321678091704,A [High value],0.07843846959890396,X [Regular demand],XA
+Apparel,Cleats,Perfect Fitness Perfect Rip Deck,540865.2,0.11747631579718429,0.4470084836063547,A [High value],0.4953702026169563,Y [Variable demand],YA
+Fan Shop,Water Sports,Pelican Sunstream 100 Kayak,470448.0,0.10218164861439367,0.5491901322207484,A [High value],0.07810107354199032,X [Regular demand],XA
+Golf,Women's Apparel,Nike Men's Dri-FIT Victory Golf Polo,418185.5,0.09083019550860993,0.6400203277293584,A [High value],0.47629144716075744,Y [Variable demand],YA
+Apparel,Men's Footwear,Nike Men's CJ Elite 2 TD Football Cleat,394299.1,0.08564205201248952,0.7256623797418479,A [High value],0.07834122352555405,X [Regular demand],XA
+Fan Shop,Indoor/Outdoor Games,O'Brien Men's Neoprene Life Vest,351514.5,0.07634920569725939,0.8020115854391072,B[Medium value],0.4910884153167536,Y [Variable demand],YB
+Footwear,Cardio Equipment,Nike Men's Free 5.0+ Running Shoe,315508.0,0.06852856764409695,0.8705401530832042,B[Medium value],0.5284669043679792,z [Irregular demand],zB
+Golf,Shop By Sport,Under Armour Girls' Toddler Spine Surge Runni,199665.6,0.04336751390075435,0.9139076669839585,B[Medium value],0.42948672735207727,Y [Variable demand],YB
+Technology,Cameras,Web Camera,49046.52,0.01065293990493919,0.9245606068888977,B[Medium value],0.07682920810448947,X [Regular demand],XB
+Outdoors,Garden,Lawn mower,24230.18,0.005262812762778265,0.929823419651676,B[Medium value],0.0742596692813261,X [Regular demand],XB
+Apparel,Crafts,Porcelain crafts,19348.17,0.004202436631193146,0.9340258562828692,B[Medium value],0.08842125170219056,X [Regular demand],XB
+Discs Shop,DVDs,DVDs,10787.92,0.00234314408971914,0.9363690003725883,B[Medium value],0.08363303264299322,X [Regular demand],XB
+Golf,Girls' Apparel,adidas Youth Germany Black/Red Away Match Soc,10121.3,0.0021983537396712553,0.9385673541122596,B[Medium value],0.4014098039177413,Y [Variable demand],YB
+Fitness,Baseball & Softball,adidas Men's F10 Messi TRX FG Soccer Cleat,10027.8,0.0021780454714982675,0.9407453995837578,B[Medium value],0.446683568538867,Y [Variable demand],YB
+Apparel,Women's Clothing,Summer dresses,9108.72,0.0019784206253760242,0.9427238202091338,B[Medium value],0.08059523733846302,X [Regular demand],XB
+Outdoors,Golf Shoes,LIJA Women's Eyelet Sleeveless Golf Polo,8778.25,0.0019066423004227913,0.9446304625095566,B[Medium value],0.3895788204032867,Y [Variable demand],YB
+Footwear,Boxing & MMA,Under Armour Women's Micro G Skulpt Running S,7192.9,0.0015623031245078568,0.9461927656340645,B[Medium value],0.4466327623993291,Y [Variable demand],YB
+Outdoors,Electronics,Titleist Pro V1x Golf Balls,6982.56,0.0015166171231441536,0.9477093827572086,B[Medium value],0.484228898989363,Y [Variable demand],YB
+Fitness,Sporting Goods,Smart watch,6500.96,0.0014120132519985817,0.9491213960092072,B[Medium value],0.08678829255994619,X [Regular demand],XB
+Technology,Consumer Electronics,Industrial consumer electronics,6454.03,0.0014018200217808456,0.950523216030988,C [Low value],0.07843645930341718,X [Regular demand],XC
+Fitness,Tennis & Racquet,Nike Men's Comfort 2 Slide,5604.3,0.0012172580462232734,0.9517404740772113,C [Low value],0.4704543524529419,Y [Variable demand],YC
+Outdoors,Electronics,Titleist Pro V1x High Numbers Personalized Go,5599.88,0.0012162980190005503,0.9529567720962119,C [Low value],0.45921864459467754,Y [Variable demand],YC
+Outdoors,Golf Gloves,Clicgear Rovic Cooler Bag,5545.2,0.001204421483132112,0.954161193579344,C [Low value],0.48439438247460176,Y [Variable demand],YC
+Outdoors,Electronics,Titleist Pro V1x High Numbers Golf Balls,5311.68,0.0011537007688673406,0.9553148943482114,C [Low value],0.4778167689273034,Y [Variable demand],YC
+Footwear,Electronics,Under Armour Men's Compression EV SL Slide,5146.2,0.0011177583922120887,0.9564326527404234,C [Low value],0.47720808591534863,Y [Variable demand],YC
+Outdoors,Electronics,Titleist Pro V1 High Numbers Personalized Gol,4956.12,0.0010764728776204145,0.9575091256180438,C [Low value],0.49973458163595186,Y [Variable demand],YC
+Footwear,Electronics,Under Armour Women's Ignite Slide,4805.44,0.001043745071756181,0.9585528706898,C [Low value],0.5024829843675621,z [Irregular demand],zC
+Health and Beauty,Health and Beauty,First aid kit,4767.11,0.0010354197678089018,0.9595882904576089,C [Low value],0.058312175864116446,X [Regular demand],XC
+Golf,Girls' Apparel,Nike Men's Deutschland Weltmeister Winners Bl,4739.7,0.0010294662958236442,0.9606177567534325,C [Low value],0.4915552225750442,Y [Variable demand],YC
+Golf,Girls' Apparel,TYR Boys' Team Digi Jammer,4503.6,0.0009781852036777356,0.9615959419571103,C [Low value],0.4258143978661529,Y [Variable demand],YC
+Outdoors,Men's Golf Clubs,Merrell Women's Grassbow Sport Hiking Shoe,4045.0,0.0008785769493019897,0.9624745189064122,C [Low value],0.4726980283940551,Y [Variable demand],YC
+Footwear,Cardio Equipment,Nike Women's Tempo Shorts,3979.8,0.0008644154617631789,0.9633389343681754,C [Low value],0.5246077340737693,z [Irregular demand],zC
+Footwear,Fitness Accessories,Under Armour Hustle Storm Medium Duffle Bag,3894.1,0.0008458013592773493,0.9641847357274528,C [Low value],0.5074095915558118,z [Irregular demand],zC
+Footwear,Boxing & MMA,Nike Women's Free 5.0 TR FIT PRT 4 Training S,3867.45,0.0008400129598462249,0.965024748687299,C [Low value],0.34184268911030824,Y [Variable demand],YC
+Pet Shop,Pet Supplies,Adult dog supplies,3866.52,0.0008398109631681407,0.9658645596504671,C [Low value],0.08032134187333013,X [Regular demand],XC
+Golf,Shop By Sport,Columbia Men's PFG Anchor Tough T-Shirt,3831.9,0.0008322914739259071,0.9666968511243931,C [Low value],0.5301534107833158,z [Irregular demand],zC
+Footwear,Electronics,Under Armour Women's Ignite PIP VI Slide,3791.68,0.0008235556606005854,0.9675204067849936,C [Low value],0.5731769879975042,z [Irregular demand],zC
+Outdoors,Electronics,Bridgestone e6 Straight Distance NFL San Dieg,3744.96,0.0008134080425359651,0.9683338148275296,C [Low value],0.4810258199825131,Y [Variable demand],YC
+Outdoors,Electronics,Bridgestone e6 Straight Distance NFL Carolina,3737.92,0.0008118789494029402,0.9691456937769325,C [Low value],0.46990954979267463,Y [Variable demand],YC
+Outdoors,Trade-In,Glove It Women's Mod Oval 3-Zip Carry All Gol,3699.3,0.0008034906572442152,0.9699491844341767,C [Low value],0.4398690317880907,Y [Variable demand],YC
+Footwear,Electronics,Under Armour Kids' Mercenary Slide,3633.84,0.0007892726975158325,0.9707384571316925,C [Low value],0.42352687191261024,Y [Variable demand],YC
+Fan Shop,Hunting & Shooting,ENO Atlas Hammock Straps,3601.2,0.0007821832657172621,0.9715206403974097,C [Low value],0.5345022890294346,z [Irregular demand],zC
+Outdoors,Accessories,Team Golf Pittsburgh Steelers Putter Grip,3503.0,0.0007608541541173967,0.9722814945515271,C [Low value],0.485329136385648,Y [Variable demand],YC
+Outdoors,Golf Gloves,Bag Boy Beverage Holder,3350.75,0.0007277853431084405,0.9730092798946356,C [Low value],0.5049898015879152,z [Irregular demand],zC
+Footwear,Boxing & MMA,Brooks Women's Ghost 6 Running Shoe,3062.7,0.0006652206730845991,0.9736745005677202,C [Low value],0.5117471840605355,z [Irregular demand],zC
+Outdoors,Accessories,Team Golf Texas Longhorns Putter Grip,3005.75,0.000652851091561052,0.9743273516592813,C [Low value],0.5113360509240638,z [Irregular demand],zC
+Outdoors,Electronics,Bridgestone e6 Straight Distance NFL Tennesse,2994.88,0.0006504901196354865,0.9749778417789168,C [Low value],0.5412717404394163,z [Irregular demand],zC
+Outdoors,Golf Shoes,LIJA Women's Mid-Length Panel Golf Shorts,2860.0,0.0006211940852913944,0.9755990358642082,C [Low value],0.41850848450418526,Y [Variable demand],YC
+Outdoors,Women's Golf Clubs,TaylorMade White Smoke IN-12 Putter,2804.0,0.000609030844460514,0.9762080667086687,C [Low value],0.28819513499270577,Y [Variable demand],YC
+Outdoors,Kids' Golf Clubs,Fitbit The One Wireless Activity & Sleep Trac,2801.0,0.0006083792422731454,0.9768164459509419,C [Low value],0.35164234430624064,Y [Variable demand],YC
+Fitness,Soccer,Elevation Training Mask 2.0,2739.2,0.0005949562372133523,0.9774114021881553,C [Low value],0.38817955052884073,Y [Variable demand],YC
+Footwear,As Seen on  TV!,Nike Men's Free TR 5.0 TB Training Shoe,2660.0,0.0005777539394668214,0.977989156127622,C [Low value],0.5769999470438232,z [Irregular demand],zC
+Golf,Girls' Apparel,adidas Men's Germany Black Crest Away Tee,2622.25,0.0005695546119424333,0.9785587107395645,C [Low value],0.5321645930363924,z [Irregular demand],zC
+Outdoors,Accessories,Team Golf New England Patriots Putter Grip,2594.5,0.0005635272917092737,0.9791222380312737,C [Low value],0.540796961546918,z [Irregular demand],zC
+Fitness,Hockey,Nike Dri-FIT Crew Sock 6 Pack,2591.16,0.0005628018412740033,0.9796850398725477,C [Low value],0.5288047565135822,z [Irregular demand],zC
+Fitness,Lacrosse,Under Armour Men's Tech II T-Shirt,2578.0,0.0005599434796787464,0.9802449833522264,C [Low value],0.5300772771255071,z [Irregular demand],zC
+Outdoors,Accessories,Team Golf San Francisco Giants Putter Grip,2557.0,0.0005553822643671663,0.9808003656165936,C [Low value],0.4605102665474155,Y [Variable demand],YC
+Fitness,Baseball & Softball,adidas Kids' F5 Messi FG Soccer Cleat,2457.35,0.0005337382117100727,0.9813341038283037,C [Low value],0.509027691881258,z [Irregular demand],zC
+Fitness,Hockey,Nike Women's Legend V-Neck T-Shirt,2449.75,0.0005320874861687389,0.9818661913144724,C [Low value],0.4560330095699764,Y [Variable demand],YC
+Outdoors,Accessories,Team Golf St. Louis Cardinals Putter Grip,2357.5,0.0005120507189071546,0.9823782420333795,C [Low value],0.552839999285276,z [Irregular demand],zC
+Outdoors,Accessories,Team Golf Tennessee Volunteers Putter Grip,2331.5,0.0005064034999499602,0.9828846455333295,C [Low value],0.5593438724203291,z [Irregular demand],zC
+Golf,Shop By Sport,Nike Men's Kobe IX Elite Low Basketball Shoe,2306.0,0.0005008648813573271,0.9833855104146869,C [Low value],0.09000955720662973,X [Regular demand],XC
+Outdoors,Trade-In,Garmin Approach S3 Golf GPS Watch,2302.5,0.0005001046788053971,0.9838856150934923,C [Low value],0.07870526256589788,X [Regular demand],XC
+Outdoors,Golf Shoes,LIJA Women's Argyle Golf Polo,2280.0,0.0004952176624001326,0.9843808327558924,C [Low value],0.5185346646271846,z [Irregular demand],zC
+Fan Shop,Water Sports,Pelican Maverick 100X Kayak,2261.0,0.0004910908485467982,0.9848719236044392,C [Low value],0.09481976985209632,X [Regular demand],XC
+Outdoors,Trade-In,Glove It Imperial Golf Towel,2243.2,0.00048722467556841113,0.9853591482800076,C [Low value],0.4632396274664195,Y [Variable demand],YC
+Outdoors,Golf Apparel,Top Flite Women's 2017 XL Hybrid,2207.4,0.00047944888946581263,0.9858385971694734,C [Low value],0.46419895787118953,Y [Variable demand],YC
+Outdoors,Trade-In,Glove It Urban Brick Golf Towel,2192.32,0.00047617350247063984,0.9863147706719441,C [Low value],0.5355678575051759,z [Irregular demand],zC
+Outdoors,Golf Gloves,Bag Boy M330 Push Cart,2187.2,0.0004750614347375307,0.9867898321066816,C [Low value],0.506448982945932,z [Irregular demand],zC
+Outdoors,Golf Gloves,TaylorMade 2017 Purelite Stand Bag,2118.6,0.0004601614647197022,0.9872499935714013,C [Low value],0.0911483101212866,X [Regular demand],XC
+Outdoors,Women's Golf Clubs,Cleveland Golf Collegiate My Custom Wedge 588,2079.0,0.0004515603158464367,0.9877015538872478,C [Low value],0.06776866969767514,X [Regular demand],XC
+Outdoors,Kids' Golf Clubs,Mio ALPHA Heart Rate Monitor/Sport Watch,2069.6,0.00044951862899268177,0.9881510725162405,C [Low value],0.061739455415719284,X [Regular demand],XC
+Outdoors,Kids' Golf Clubs,Polar FT4 Heart Rate Monitor,2043.0,0.00044374108959801357,0.9885948136058385,C [Low value],0.24930794260280995,X [Regular demand],XC
+Outdoors,Men's Golf Clubs,Merrell Men's All Out Flash Trail Running Sho,2006.4,0.00043579154291211673,0.9890306051487505,C [Low value],0.09198701902979313,X [Regular demand],XC
+Outdoors,Golf Balls,Glove It Women's Mod Oval Golf Glove,1920.8,0.0004171991604991994,0.9894478043092497,C [Low value],0.592060093224359,z [Irregular demand],zC
+Footwear,Strength Training,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,1914.5700000000002,0.000415845999956764,0.9898636503092065,C [Low value],0.069267886418695,X [Regular demand],XC
+Fitness,Lacrosse,Nike Kids' Grade School KD VI Basketball Shoe,1886.0,0.00040964057512572375,0.9902732908843322,C [Low value],0.49809399946581945,Y [Variable demand],YC
+Outdoors,Golf Bags & Carts,Ogio Race Golf Shoes,1861.5,0.00040431915726221355,0.9906776100415945,C [Low value],0.07579958688887606,X [Regular demand],XC
+Outdoors,Golf Balls,Glove It Women's Imperial Golf Glove,1853.0,0.0004024729510646692,0.9910800829926592,C [Low value],0.42878699545571397,Y [Variable demand],YC
+Outdoors,Golf Gloves,Titleist Small Wheeled Travel Cover,1745.0,0.00037901527231939974,0.9914590982649786,C [Low value],0.06869965230423986,X [Regular demand],XC
+Discs Shop,Music,Rock music,1665.1799999999998,0.0003616783101208126,0.9918207765750994,C [Low value],0.10202947125378595,X [Regular demand],XC
+Outdoors,Men's Golf Clubs,Merrell Women's Siren Mid Waterproof Hiking B,1615.95,0.000350985518226094,0.9921717620933255,C [Low value],0.05839493423434804,X [Regular demand],XC
+Discs Shop,Video Games,Fighting video games,1604.0,0.0003483899695130758,0.9925201520628385,C [Low value],0.07731313186088692,X [Regular demand],XC
+Outdoors,Golf Balls,Hirzl Women's Hybrid Golf Glove,1603.05,0.000348183628820409,0.9928683356916589,C [Low value],0.5108732244291588,z [Irregular demand],zC
+Apparel,Cleats,Total Gym 1400,1590.0,0.00034534915930535564,0.9932136848509643,C [Low value],0.05389757304560642,X [Regular demand],XC
+Apparel,Children's Clothing,Children's heaters,1527.96,0.00033187402607057307,0.9935455588770349,C [Low value],0.1059805460751563,X [Regular demand],XC
+Outdoors,Kids' Golf Clubs,Garmin Forerunner 910XT GPS Watch,1516.0,0.0003292763053502636,0.9938748351823852,C [Low value],0.09012269802954792,X [Regular demand],XC
+Fan Shop,Hunting & Shooting,insta-bed Neverflat Air Mattress,1504.5,0.00032677849696535066,0.9942016136793506,C [Low value],0.07890493037751428,X [Regular demand],XC
+Outdoors,Golf Balls,Hirzl Men's Hybrid Golf Glove,1452.9,0.00031557093934261085,0.9945171846186932,C [Low value],0.4217888049599332,Y [Variable demand],YC
+Outdoors,Women's Golf Clubs,MDGolf Pittsburgh Penguins Putter,1428.8000000000002,0.00031033640177074984,0.9948275210204639,C [Low value],0.5431051168682968,z [Irregular demand],zC
+Outdoors,Kids' Golf Clubs,GolfBuddy VT3 GPS Watch,1428.0,0.0003101626411874515,0.9951376836616513,C [Low value],0.06716016429742216,X [Regular demand],XC
+Fitness,Basketball,Diamondback Girls' Clarity 24 Hybrid Bike 201,1422.0,0.0003088594368127143,0.995446543098464,C [Low value],0.06302687445691839,X [Regular demand],XC
+Fitness,Baseball & Softball,adidas Brazuca 2017 Official Match Ball,1403.2,0.0003047760631052044,0.9957513191615692,C [Low value],0.06884656348929248,X [Regular demand],XC
+Outdoors,Kids' Golf Clubs,Polar Loop Activity Tracker,1386.0,0.00030104021056429113,0.9960523593721335,C [Low value],0.08529040943224864,X [Regular demand],XC
+Book Shop,Books,Sports Books,1353.77,0.0002940398310646612,0.9963463992031982,C [Low value],0.08116740371308478,X [Regular demand],XC
+Outdoors,Golf Gloves,Titleist Club Glove Travel Cover,1341.0,0.0002912661777537622,0.996637665380952,C [Low value],0.09576668811187469,X [Regular demand],XC
+Fan Shop,Hunting & Shooting,The North Face Women's Recon Backpack,1319.67,0.0002866332862015715,0.9969242986671536,C [Low value],0.3748526356677746,Y [Variable demand],YC
+Outdoors,Men's Golf Clubs,Merrell Women's Grassbow Sport Waterproof Hik,1315.6,0.0002857492792340414,0.9972100479463877,C [Low value],0.07499212308982756,X [Regular demand],XC
+Fitness,Soccer,Nike Men's Fingertrap Max Training Shoe,1296.25,0.000281546445125514,0.9974915943915132,C [Low value],0.09263498521521951,X [Regular demand],XC
+Outdoors,Golf Balls,Hirzl Women's Soffft Flex Golf Glove,1270.08,0.0002758623020443686,0.9977674566935576,C [Low value],0.6142698957622816,z [Irregular demand],zC
+Fitness,Hockey,Stiga Master Series ST3100 Competition Indoor,1211.1,0.000263051803040702,0.9980305084965982,C [Low value],0.07777211490865625,X [Regular demand],XC
+Apparel,Men's Clothing,Men's gala suit,1139.4,0.0002474785107625926,0.9982779870073608,C [Low value],0.07535922203472518,X [Regular demand],XC
+Apparel,Baby,Baby sweater,1090.91,0.00023694644740742486,0.9985149334547683,C [Low value],0.0873476081409519,X [Regular demand],XC
+Outdoors,Golf Gloves,Clicgear 8.0 Shoe Brush,1022.0,0.00022197914516356823,0.9987369125999318,C [Low value],0.4988136849482394,Y [Variable demand],YC
+Outdoors,Golf Shoes,LIJA Women's Button Golf Dress,954.72,0.00020736588010818185,0.99894427848004,C [Low value],0.1148931260851472,X [Regular demand],XC
+Outdoors,Golf Apparel,TaylorMade Women's RBZ SL Rescue,845.0,0.0001835346161088211,0.9991278130961488,C [Low value],0.06794823415405903,X [Regular demand],XC
+Footwear,Strength Training,GoPro HERO3+ Black Edition Camera,792.0,0.00017202297746530921,0.9992998360736142,C [Low value],0.014284985478516112,X [Regular demand],XC
+Fan Shop,Toys,Toys,782.76,0.00017001604272821395,0.9994698521163424,C [Low value],0.08023308741910966,X [Regular demand],XC
+Fitness,Basketball,Diamondback Boys' Insight 24 Performance Hybr,741.0,0.0001609457402800431,0.9996307978566225,C [Low value],0.07808624097970004,X [Regular demand],XC
+Outdoors,Kids' Golf Clubs,Garmin Approach S4 Golf GPS Watch,702.0,0.00015247491184425135,0.9997832727684667,C [Low value],0.06661733875264912,X [Regular demand],XC
+Outdoors,Golf Apparel,Cleveland Golf Women's 588 RTX CB Satin Chrom,579.6,0.00012588954259961266,0.9999091623110663,C [Low value],0.0411482544810596,X [Regular demand],XC
+Discs Shop,CDs,CDs of rock,418.21999999999997,9.083768893376468e-05,1.0,C [Low value],0.07205726477273607,X [Regular demand],XC
